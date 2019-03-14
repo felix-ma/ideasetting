@@ -39,7 +39,12 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
-  <action id="RunToCursor" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="ScrollPane-scrollDown">
     <mouse-shortcut keystroke="control button142" />
   </action>
