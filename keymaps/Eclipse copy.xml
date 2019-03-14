@@ -38,6 +38,7 @@
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt h" />
+    <keyboard-shortcut first-keystroke="shift h" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
