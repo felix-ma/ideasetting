@@ -36,6 +36,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="RunToCursor" />
   <action id="ScrollPane-scrollDown">
     <mouse-shortcut keystroke="control button142" />
