@@ -9,12 +9,12 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.pom</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
