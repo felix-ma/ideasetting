@@ -12,9 +12,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.pom</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.pom</mask>
   </component>
 </application>
