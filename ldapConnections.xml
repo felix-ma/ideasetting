@@ -1,0 +1,13 @@
+<application>
+  <component name="ldapConnections">
+    <option name="ldapConnectionInfos">
+      <list>
+        <LdapConnectionInfo>
+          <option name="baseDn" value="dc=lemon,dc=com" />
+          <option name="host" value="192.168.0.81" />
+          <option name="name" value="qiaowei" />
+        </LdapConnectionInfo>
+      </list>
+    </option>
+  </component>
+</application>
