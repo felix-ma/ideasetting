@@ -12,11 +12,11 @@
         </LdapConnectionInfo>
         <LdapConnectionInfo>
           <option name="auth" value="true" />
-          <option name="baseDn" value="dc=lemon,dc=com" />
-          <option name="host" value="192.168.0.81" />
-          <option name="name" value="192.168.0.81" />
+          <option name="baseDn" value="dc=embrace,dc=com" />
+          <option name="host" value="192.168.40.141" />
+          <option name="name" value="192.168.40.141" />
           <option name="password" value="123456" />
-          <option name="username" value="cn=Captain" />
+          <option name="username" value="cn=admin,dc=embrace,dc=com" />
         </LdapConnectionInfo>
       </list>
     </option>
