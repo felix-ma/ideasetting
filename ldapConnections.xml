@@ -10,6 +10,14 @@
           <option name="password" value="123456" />
           <option name="username" value="cn=Captain,dc=lemon,dc=com" />
         </LdapConnectionInfo>
+        <LdapConnectionInfo>
+          <option name="auth" value="true" />
+          <option name="baseDn" value="dc=lemon,dc=com" />
+          <option name="host" value="192.168.0.81" />
+          <option name="name" value="192.168.0.81" />
+          <option name="password" value="123456" />
+          <option name="username" value="cn=Captain" />
+        </LdapConnectionInfo>
       </list>
     </option>
   </component>
