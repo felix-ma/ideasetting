@@ -45,6 +45,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="shift r" />
+  </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
