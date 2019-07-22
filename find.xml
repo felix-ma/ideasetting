@@ -11,9 +11,9 @@
     <mask>*.mxml</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.pom</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.bat</mask>
+    <mask>*.pom</mask>
   </component>
 </application>
