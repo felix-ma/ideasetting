@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Json Parser" displayType="NONE" />
+    <notification groupId="Lombok plugin" displayType="NONE" />
     <notification groupId="Node.js interpreter" displayType="NONE" />
   </component>
 </application>
