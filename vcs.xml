@@ -10,6 +10,10 @@
           <option name="url" value="http://219.142.47.93" />
           <option name="userName" value="felix.ma" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.0.67" />
+          <option name="userName" value="felix.ma" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code\Git WorkSpace" />
