@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.springframework.web.socket.WebSocketSession.sendMessage(webSocketMessage)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
