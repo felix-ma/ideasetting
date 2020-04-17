@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
