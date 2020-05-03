@@ -5,6 +5,9 @@
         <option name="apiUrl" value="https://192.168.40.135:2376" />
         <option name="certificatesPath" value="D:\docker-machine-storage\machines\dev" />
         <option name="machine" value="dev" />
+        <option name="pathMappings">
+          <list />
+        </option>
       </configuration>
     </remote-server>
   </component>
