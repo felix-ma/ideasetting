@@ -38,6 +38,14 @@
           <option name="url" value="https://github.com/Trisia/alg-sm2-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.gzky.com/embrace-platform/gzky-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.gzky.com/embrace-platform/gzky-tools.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code\Git WorkSpace" />
