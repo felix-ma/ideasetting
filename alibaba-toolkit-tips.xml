@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="D:/code/workspace/netty-websocket-ssl-spring-boot-starter" firstStartUp="false" />
     <entry projectName="D:/code/workspace/ngtdms-access-service" firstStartUp="false" />
     <entry projectName="D:/code/workspace/nyskdemo" firstStartUp="false" />
     <entry projectName="D:/code/workspace/s3fusemount/s3FuseMount" firstStartUp="false" />
