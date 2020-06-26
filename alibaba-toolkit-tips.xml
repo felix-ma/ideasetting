@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="D:/code/workspace/asyncTool" firstStartUp="false" />
     <entry projectName="D:/code/workspace/cooperation-design" firstStartUp="false" />
     <entry projectName="D:/code/workspace/cooperation-service" firstStartUp="false" />
     <entry projectName="D:/code/workspace/data-service" firstStartUp="false" />
