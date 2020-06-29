@@ -60,7 +60,7 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Tool.GotoRequestService">
-    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="f4" />
