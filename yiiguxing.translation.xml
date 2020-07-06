@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A Data source with JNDI name pgsql is used but not configured, check your DataSources.java file and configure it." />
       <item value="Failed to determine the type of data source defined with bean name accounts use Tomcat/Hikari based DataSource and XA DataSources are supported. Add the following to your pom.xml" />
       <item value="申请" />
       <item value="leave" />
@@ -15,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
         <entry key="ESTONIAN" value="1" />
       </map>
     </option>
