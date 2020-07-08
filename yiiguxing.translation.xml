@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INSTANCE" />
       <item value="Could not obtain connection for schema test2, but one is required for metadata load." />
       <item value="共享" />
       <item value="orgin" />
@@ -21,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
         <entry key="ESTONIAN" value="1" />
       </map>
     </option>
