@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="失败" />
       <item value="验证" />
       <item value="参数验证" />
       <item value="雅正" />
