@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tell With High Priority" />
       <item value="TEXT must be immediately followed by END_TAG and not START_TAG" />
       <item value="失败" />
       <item value="验证" />
@@ -30,7 +31,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
         <entry key="ESTONIAN" value="1" />
       </map>
     </option>
