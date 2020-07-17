@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vaild" />
       <item value="glob" />
       <item value="消息已收到" />
       <item value="sent" />
