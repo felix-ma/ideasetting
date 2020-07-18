@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="losed" />
+      <item value="额外" />
+      <item value="超出" />
+      <item value="多余" />
+      <item value="丢失" />
+      <item value="缺失" />
+      <item value="缺少" />
+      <item value="missd" />
+      <item value="溢出" />
       <item value="严格检查" />
       <item value="验证" />
       <item value="校验" />
@@ -42,16 +51,11 @@
       <item value="diagram" />
       <item value="Invocation of init method failed; nested exception is javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication" />
       <item value="efined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Invocation of init method failed; nested exception is javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication" />
-      <item value="Hikari Pool" />
-      <item value="分享" />
-      <item value="argument is not available" />
-      <item value="available" />
-      <item value="Delimiter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="26" />
         <entry key="ESTONIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
