@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Requested bean is currently in creation: Is there an unresolvable circular reference?" />
       <item value="EventWapper" />
       <item value="enable Strict Inspection" />
       <item value="Contents of collection 'threadCurrentChecker' are updated, but never queried " />
@@ -50,12 +51,11 @@
       <item value="自定义" />
       <item value="A Data source with JNDI name pgsql is used but not configured, check your DataSources.java file and configure it." />
       <item value="Failed to determine the type of data source defined with bean name accounts use Tomcat/Hikari based DataSource and XA DataSources are supported. Add the following to your pom.xml" />
-      <item value="申请" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="ESTONIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
