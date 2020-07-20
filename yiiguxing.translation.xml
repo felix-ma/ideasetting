@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="in the specified array all values in the array must be matched." />
+      <item value="The &lt;code&gt;all&lt;/code&gt; operator is similar to $in, but instead of matching any value" />
       <item value="enable Strict Inspection" />
       <item value="Requested bean is currently in creation: Is there an unresolvable circular reference?" />
       <item value="EventWapper" />
@@ -49,13 +51,11 @@
       <item value="orgin" />
       <item value="初始" />
       <item value="自定义" />
-      <item value="A Data source with JNDI name pgsql is used but not configured, check your DataSources.java file and configure it." />
-      <item value="Failed to determine the type of data source defined with bean name accounts use Tomcat/Hikari based DataSource and XA DataSources are supported. Add the following to your pom.xml" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="ESTONIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
