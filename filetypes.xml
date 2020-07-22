@@ -5,7 +5,6 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
-      <mapping ext="g4" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
