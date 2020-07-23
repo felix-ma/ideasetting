@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Procedure SQL Builder" />
+      <item value="Procedure" />
+      <item value="C O N S T R U C T O R S" />
       <item value="visit" />
       <item value="additional Info" />
       <item value="Could not determine value type" />
@@ -48,14 +51,11 @@
       <item value="参数验证" />
       <item value="雅正" />
       <item value="Manipulation Data DTO" />
-      <item value="INSTANCE" />
-      <item value="Could not obtain connection for schema test2, but one is required for metadata load." />
-      <item value="共享" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="ESTONIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
