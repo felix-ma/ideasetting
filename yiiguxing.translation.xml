@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEFAULT REGISTER COUNT" />
+      <item value="DEFAULT BIT INDEX FOR BOOLEAN" />
+      <item value="DEFAULT REGISTER COUNT FOR BOOLEAN" />
       <item value="Procedure SQL Builder" />
       <item value="Procedure" />
       <item value="C O N S T R U C T O R S" />
@@ -48,14 +51,11 @@
       <item value="tell With High Priority" />
       <item value="TEXT must be immediately followed by END_TAG and not START_TAG" />
       <item value="失败" />
-      <item value="参数验证" />
-      <item value="雅正" />
-      <item value="Manipulation Data DTO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="ESTONIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
