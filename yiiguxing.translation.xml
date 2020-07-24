@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error rendering velocity resource." />
       <item value="cannot declare a rule with reserved name" />
       <item value="DEFAULT REGISTER COUNT" />
       <item value="DEFAULT BIT INDEX FOR BOOLEAN" />
@@ -50,12 +51,11 @@
       <item value="处理" />
       <item value="Dispatcher" />
       <item value="tell With High Priority" />
-      <item value="TEXT must be immediately followed by END_TAG and not START_TAG" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="ESTONIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
