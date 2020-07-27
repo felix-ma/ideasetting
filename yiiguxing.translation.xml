@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="property Names" />
+      <item value="key Predicate Names" />
       <item value="Csdl" />
       <item value="prepared" />
       <item value="Primitive" />
@@ -49,13 +51,11 @@
       <item value="sented" />
       <item value="已发送" />
       <item value="sensed" />
-      <item value="消息预发布" />
-      <item value="消息预备发送" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
