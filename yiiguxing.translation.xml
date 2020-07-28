@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exceptionally Async" />
       <item value="timeout value is negative" />
       <item value="Incompatible types." />
       <item value="property Names" />
@@ -50,7 +51,6 @@
       <item value="消息已收到" />
       <item value="sent" />
       <item value="send" />
-      <item value="sented" />
     </histories>
     <option name="languageScores">
       <map>
