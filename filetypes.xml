@@ -6,6 +6,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="vdb" type="PLAIN_TEXT" />
       <mapping pattern="12" type="XML" />
     </extensionMap>
   </component>
