@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plan Complet Status" />
       <item value="Integrated Plan Collaboration" />
       <item value="Wrong percent encoding!" />
       <item value="执行" />
@@ -50,7 +51,6 @@
       <item value="严格检查" />
       <item value="验证" />
       <item value="校验" />
-      <item value="vaild" />
     </histories>
     <option name="languageScores">
       <map>
