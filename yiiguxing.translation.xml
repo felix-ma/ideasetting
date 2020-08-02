@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="CONCURRENTLY" />
       <item value="ORDERLY" />
+      <item value="CONCURRENTLY" />
       <item value="plan Complet Status" />
       <item value="Integrated Plan Collaboration" />
       <item value="Wrong percent encoding!" />
