@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Periodic" />
       <item value="ORDERLY" />
       <item value="CONCURRENTLY" />
       <item value="plan Complet Status" />
@@ -50,12 +51,11 @@
       <item value="缺少" />
       <item value="missd" />
       <item value="溢出" />
-      <item value="严格检查" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
