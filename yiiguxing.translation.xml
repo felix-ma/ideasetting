@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For profiles defined in the settings.xml, you are restricted to specifying only artifact repositories, plugin repositories, and free-form properties to be used as configuration variables for plugins in the POM." />
       <item value="company" />
       <item value="Periodic" />
       <item value="ORDERLY" />
@@ -50,11 +51,10 @@
       <item value="丢失" />
       <item value="缺失" />
       <item value="缺少" />
-      <item value="missd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
+        <entry key="CHINESE" value="64" />
         <entry key="ENGLISH" value="64" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
