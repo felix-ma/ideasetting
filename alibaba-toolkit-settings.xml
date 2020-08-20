@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerStore">
+    <option name="dockerAuth" value="true" />
+    <option name="dockerConnectionType" value="TCP" />
+    <option name="dockerLocation" value="" />
+    <option name="dockerPath" value="C:\Users\Felix\.docker\machine\machines\dev" />
+    <option name="dockerUri" value="https://felix.docker:2376" />
+  </component>
+</application>
