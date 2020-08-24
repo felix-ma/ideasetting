@@ -9,5 +9,8 @@
     <entry projectPath="D:/code/workspace/things-router-modbus" startUpFlag="FIRST" />
     <entry projectPath="D:/code/workspace/thingsboard" startUpFlag="FIRST" />
     <entry projectPath="D:/code/workspace/thingsboard-gateway" startUpFlag="FIRST" />
+    <entry projectPath="D:/code/workspace/urule/urule-core" startUpFlag="FIRST" />
+    <entry projectPath="D:/code/workspace/urule/urule-parent" startUpFlag="FIRST" />
+    <entry projectPath="D:/code/workspace/urule/urule-springboot" startUpFlag="FIRST" />
   </component>
 </application>
