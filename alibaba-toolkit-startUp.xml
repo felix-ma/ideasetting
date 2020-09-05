@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="D:/code/workspace/MaxKey" startUpFlag="FIRST" />
     <entry projectPath="D:/code/workspace/RuleEngine" startUpFlag="FIRST" />
     <entry projectPath="D:/code/workspace/data-service" startUpFlag="FIRST" />
     <entry projectPath="D:/code/workspace/dispatch" startUpFlag="FIRST" />
