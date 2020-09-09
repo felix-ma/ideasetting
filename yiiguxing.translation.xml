@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manager" />
+      <item value="manger" />
       <item value="tomorrow Data" />
       <item value="工厂" />
       <item value="Component Descriptor" />
@@ -49,12 +51,10 @@
       <item value="Could not determine value type" />
       <item value="in the specified array all values in the array must be matched." />
       <item value="The &lt;code&gt;all&lt;/code&gt; operator is similar to $in, but instead of matching any value" />
-      <item value="enable Strict Inspection" />
-      <item value="Requested bean is currently in creation: Is there an unresolvable circular reference?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
+        <entry key="CHINESE" value="73" />
         <entry key="ENGLISH" value="73" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
