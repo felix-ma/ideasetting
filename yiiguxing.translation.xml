@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="After acknowledgement, the message is pushed to related rule nodes. Useful if you don't care what happens to this message next." />
+      <item value="After successful transfer incoming message is automatically acknowledged. Queue name is configurable." />
+      <item value="This node should be used together with &quot;synchronization end&quot; node. This node will put messages into queue based on message originator id. Subsequent messages will not be processed until the previous message processing is completed or timeout event occurs. Size of the queue per originator and timeout values are configurable on a system level`" />
+      <item value="This node should be used together with &quot;synchronization end&quot; node. This node will put messages into queue based on message originator id. Subsequent messages will not be processed until the previous message processing is completed or timeout event occurs. Size of the queue per originator and timeout values are configurable on a system level" />
+      <item value="Synchronization Start/End nodes are deprecated since TB 2.5. Use queue with submit strategy SEQUENTIAL_BY_ORIGINATOR instead." />
       <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
       <item value="This is very likely to create a memory leak" />
       <item value="manager" />
@@ -46,15 +51,10 @@
       <item value="DEFAULT BIT INDEX FOR BOOLEAN" />
       <item value="DEFAULT REGISTER COUNT FOR BOOLEAN" />
       <item value="Procedure SQL Builder" />
-      <item value="Procedure" />
-      <item value="C O N S T R U C T O R S" />
-      <item value="visit" />
-      <item value="additional Info" />
-      <item value="Could not determine value type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="75" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
