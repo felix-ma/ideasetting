@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use the default PooledObject implementation." />
+      <item value=" passivate" />
+      <item value="passivate Object" />
+      <item value="When an object is returned to the pool, clear the buffer." />
       <item value="After acknowledgement, the message is pushed to related rule nodes. Useful if you don't care what happens to this message next." />
       <item value="After successful transfer incoming message is automatically acknowledged. Queue name is configurable." />
       <item value="This node should be used together with &quot;synchronization end&quot; node. This node will put messages into queue based on message originator id. Subsequent messages will not be processed until the previous message processing is completed or timeout event occurs. Size of the queue per originator and timeout values are configurable on a system level`" />
@@ -47,15 +51,11 @@
       <item value="Csdl Edm Provider" />
       <item value="Error rendering velocity resource." />
       <item value="cannot declare a rule with reserved name" />
-      <item value="DEFAULT REGISTER COUNT" />
-      <item value="DEFAULT BIT INDEX FOR BOOLEAN" />
-      <item value="DEFAULT REGISTER COUNT FOR BOOLEAN" />
-      <item value="Procedure SQL Builder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
