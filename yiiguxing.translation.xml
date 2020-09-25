@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HttpMessageNotReadableException" />
+      <item value="// Compact the collection, erase deleted data from disk and rebuild index in background (if         // the data size after compaction is still larger than indexFileSize). Data was only         // soft-deleted until you call compact." />
       <item value="// Compact the collection, erase deleted data from disk and rebuild index in background (if&#10;        // the data size after compaction is still larger than indexFileSize). Data was only&#10;        // soft-deleted until you call compact." />
       <item value="Helper function that normalizes a vector if you are using IP (Inner Product) as your metric" />
       <item value="Use the default PooledObject implementation." />
@@ -49,12 +51,10 @@
       <item value="test Circle Reference Should Not Stack Overflow" />
       <item value="To verify if the sample is correctly installed and running, use list and web:list to see its bundle status and its web context is registered." />
       <item value="ODATAIDENTIFIER" />
-      <item value="visit Binary Operator" />
-      <item value="Csdl Edm Provider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
+        <entry key="CHINESE" value="81" />
         <entry key="ENGLISH" value="81" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
