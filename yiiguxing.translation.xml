@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parsable" />
+      <item value="is Parsable" />
+      <item value="Delays incoming message" />
       <item value="After successful transfer incoming message is automatically acknowledged. Queue name is configurable." />
       <item value="After acknowledgement, the message is pushed to related rule nodes. Useful if you don't care what happens to this message next." />
       <item value="was expecting double-quote to start field name" />
@@ -48,16 +51,13 @@
       <item value="Csdl" />
       <item value="prepared" />
       <item value="Primitive" />
-      <item value="create Primitive Type Instance" />
-      <item value="test Reference Load Recursively" />
-      <item value="test Circle Reference Should Not Stack Overflow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="86" />
         <entry key="ESTONIAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
