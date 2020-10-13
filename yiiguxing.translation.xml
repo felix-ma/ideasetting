@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Isolated" />
+      <item value="isIsolated" />
       <item value="Dummy Discovery Service" />
       <item value="specific" />
       <item value="In 2.6/3.1 this should not happen because all Rule Engine Queues will be in the DB and we always know their partition sizes." />
@@ -49,12 +51,10 @@
       <item value="ORDERLY" />
       <item value="CONCURRENTLY" />
       <item value="plan Complet Status" />
-      <item value="Integrated Plan Collaboration" />
-      <item value="Wrong percent encoding!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
+        <entry key="CHINESE" value="94" />
         <entry key="ENGLISH" value="94" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
