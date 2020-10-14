@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="replace null callbacks with callbacks from websocket service." />
       <item value="monolith" />
       <item value="is Isolated" />
       <item value="isIsolated" />
@@ -50,12 +51,11 @@
       <item value="company" />
       <item value="Periodic" />
       <item value="ORDERLY" />
-      <item value="CONCURRENTLY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
