@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="线路编码" />
+      <item value="局编码" />
+      <item value="帧类型" />
+      <item value="监测类型" />
+      <item value="序号" />
+      <item value="protocol" />
       <item value="NO MORE PARTITIONS FOR CURRENT KEY" />
       <item value="replace null callbacks with callbacks from websocket service." />
       <item value="monolith" />
@@ -45,17 +51,11 @@
       <item value="SUSPENDED" />
       <item value="METHODS TO PROCESS THE MESSAGES" />
       <item value="This Service may be started for specific tenant only." />
-      <item value="tenant" />
-      <item value="Partition Change Event" />
-      <item value="map' unexpected" />
-      <item value="For profiles defined in the settings.xml, you are restricted to specifying only artifact repositories, plugin repositories, and free-form properties to be used as configuration variables for plugins in the POM." />
-      <item value="company" />
-      <item value="Periodic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
