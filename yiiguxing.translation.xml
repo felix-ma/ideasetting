@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the radix to be used while parsing " />
+      <item value="ensure Capacity" />
       <item value="/**&#10;     * Sets the specified 16-bit short integer in the Little Endian Byte&#10;     * Order at the current {@code writerIndex} and increases the&#10;     * {@code writerIndex} by {@code 2} in this buffer.&#10;     * The 16 high-order bits of the specified value are ignored.&#10;     * If {@code this.writableBytes} is less than {@code 2}, {@link #ensureWritable(int)}&#10;     * will be called in an attempt to expand capacity to accommodate.&#10;     */" />
       <item value="/**&#10;     * Sets the specified 16-bit short integer at the current&#10;     * {@code writerIndex} and increases the {@code writerIndex} by {@code 2}&#10;     * in this buffer.  The 16 high-order bits of the specified value are ignored.&#10;     * If {@code this.writableBytes} is less than {@code 2}, {@link #ensureWritable(int)}&#10;     * will be called in an attempt to expand capacity to accommodate.&#10;     */" />
       <item value="**&#10;     * Sets the specified 16-bit short integer at the current&#10;     * {@code writerIndex} and increases the {@code writerIndex} by {@code 2}&#10;     * in this buffer.  The 16 high-order bits of the specified value are ignored.&#10;     * If {@code this.writableBytes} is less than {@code 2}, {@link #ensureWritable(int)}&#10;     * will be called in an attempt to expand capacity to accommodate.&#10;     */" />
@@ -49,13 +51,11 @@
       <item value="This is very likely to create a memory leak" />
       <item value="manager" />
       <item value="manger" />
-      <item value="tomorrow Data" />
-      <item value="工厂" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
