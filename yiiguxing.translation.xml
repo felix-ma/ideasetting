@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Heard Beat " />
+      <item value="HeardBeatMsg" />
       <item value="the radix to be used while parsing " />
       <item value="ensure Capacity" />
       <item value="/**&#10;     * Sets the specified 16-bit short integer in the Little Endian Byte&#10;     * Order at the current {@code writerIndex} and increases the&#10;     * {@code writerIndex} by {@code 2} in this buffer.&#10;     * The 16 high-order bits of the specified value are ignored.&#10;     * If {@code this.writableBytes} is less than {@code 2}, {@link #ensureWritable(int)}&#10;     * will be called in an attempt to expand capacity to accommodate.&#10;     */" />
@@ -49,12 +51,10 @@
       <item value="Synchronization Start/End nodes are deprecated since TB 2.5. Use queue with submit strategy SEQUENTIAL_BY_ORIGINATOR instead." />
       <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
       <item value="This is very likely to create a memory leak" />
-      <item value="manager" />
-      <item value="manger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
+        <entry key="CHINESE" value="106" />
         <entry key="ENGLISH" value="106" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
