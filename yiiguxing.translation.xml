@@ -74,6 +74,7 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
     <option name="primaryFontFamily" value="Microsoft YaHei UI" />
+    <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
     <option name="translator" value="fanyi.baidu" />
