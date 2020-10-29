@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="diagram" />
       <item value="Marshalling Decoder" />
       <item value="默认" />
       <item value="字段定义" />
@@ -50,7 +51,6 @@
       <item value="Use the default PooledObject implementation." />
       <item value=" passivate" />
       <item value="passivate Object" />
-      <item value="When an object is returned to the pool, clear the buffer." />
     </histories>
     <option name="languageScores">
       <map>
