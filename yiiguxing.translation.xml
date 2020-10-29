@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Marshalling Decoder" />
       <item value="默认" />
       <item value="字段定义" />
       <item value="字段" />
@@ -50,12 +51,11 @@
       <item value=" passivate" />
       <item value="passivate Object" />
       <item value="When an object is returned to the pool, clear the buffer." />
-      <item value="This node should be used together with &quot;synchronization end&quot; node. This node will put messages into queue based on message originator id. Subsequent messages will not be processed until the previous message processing is completed or timeout event occurs. Size of the queue per originator and timeout values are configurable on a system level`" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
