@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已登录" />
+      <item value="loaned" />
       <item value="Delivery Future" />
       <item value="diagram" />
       <item value="Marshalling Decoder" />
@@ -49,13 +51,11 @@
       <item value="// Compact the collection, erase deleted data from disk and rebuild index in background (if         // the data size after compaction is still larger than indexFileSize). Data was only         // soft-deleted until you call compact." />
       <item value="// Compact the collection, erase deleted data from disk and rebuild index in background (if&#10;        // the data size after compaction is still larger than indexFileSize). Data was only&#10;        // soft-deleted until you call compact." />
       <item value="Helper function that normalizes a vector if you are using IP (Inner Product) as your metric" />
-      <item value="Use the default PooledObject implementation." />
-      <item value=" passivate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
