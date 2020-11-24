@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IMPORTANT: client handle must be unique per item within the context of a subscription. You are not required to use the UaSubscription's client handle sequence; it is provided as a convenience. Your application is free to assign client handles by whatever means necessary." />
       <item value="完成" />
       <item value="高度" />
       <item value="噶偶的" />
@@ -50,11 +51,10 @@
       <item value="After successful transfer incoming message is automatically acknowledged. Queue name is configurable." />
       <item value="After acknowledgement, the message is pushed to related rule nodes. Useful if you don't care what happens to this message next." />
       <item value="was expecting double-quote to start field name" />
-      <item value="Distances" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
+        <entry key="CHINESE" value="113" />
         <entry key="ENGLISH" value="113" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
