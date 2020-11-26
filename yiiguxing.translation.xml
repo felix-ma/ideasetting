@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Rule Node Components" />
+      <item value="discover Components" />
       <item value="Connection timed out: connect" />
       <item value="No matter how we complete, make sure the entry in pending is removed. This covers the case where the request fails due to a timeout in the transport layer as well as normal completion." />
       <item value="on Secure Message" />
@@ -49,13 +51,11 @@
       <item value="keycloak" />
       <item value="persist" />
       <item value="config Directive" />
-      <item value="Parsable" />
-      <item value="is Parsable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
