@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="resove" />
       <item value="初始化" />
       <item value="chromeUserDataDir" />
       <item value="初始化&#10;" />
@@ -53,12 +54,11 @@
       <item value="isIsolated" />
       <item value="Dummy Discovery Service" />
       <item value="specific" />
-      <item value="In 2.6/3.1 this should not happen because all Rule Engine Queues will be in the DB and we always know their partition sizes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
