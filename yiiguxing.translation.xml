@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="760" />
-    <option name="newTranslationDialogY" value="450" />
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="672" />
+    <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="对比" />
       <item value="秒" />
       <item value="m" />
       <item value="interval" />
@@ -53,7 +54,6 @@
       <item value="序号" />
       <item value="protocol" />
       <item value="NO MORE PARTITIONS FOR CURRENT KEY" />
-      <item value="replace null callbacks with callbacks from websocket service." />
     </histories>
     <option name="languageScores">
       <map>
