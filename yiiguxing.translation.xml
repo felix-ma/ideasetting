@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="验证" />
+      <item value="校验" />
       <item value="对比" />
       <item value="秒" />
       <item value="m" />
@@ -52,8 +54,6 @@
       <item value="帧类型" />
       <item value="监测类型" />
       <item value="序号" />
-      <item value="protocol" />
-      <item value="NO MORE PARTITIONS FOR CURRENT KEY" />
     </histories>
     <option name="languageScores">
       <map>
