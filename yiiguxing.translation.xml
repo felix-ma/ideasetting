@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Creative Commons Attribution-NoDerivs 3.0 Unported" />
       <item value="I Authenticator" />
       <item value="验证" />
       <item value="校验" />
@@ -53,12 +54,11 @@
       <item value="线路编码" />
       <item value="局编码" />
       <item value="帧类型" />
-      <item value="监测类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
