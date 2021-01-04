@@ -94,6 +94,10 @@
           <option name="url" value="https://github.com/moquette-io/moquette.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/xchao/j-im.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code\GitSpace" />
