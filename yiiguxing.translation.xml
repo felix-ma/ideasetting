@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Get User Info Topic" />
+      <item value="Transfer Group Topic" />
+      <item value="Dismiss Group Topic" />
+      <item value="Kickoff Group Member Topic" />
+      <item value="Add Group Member Topic" />
+      <item value="Get User Setting Topic" />
+      <item value="Multi Cast Message Topic" />
+      <item value="Broadcast Message Topic" />
+      <item value="Notify Message Topic" />
+      <item value="Pull Message Topic" />
+      <item value="Recall Message Topic" />
       <item value="Creative Commons Attribution-NoDerivs 3.0 Unported" />
       <item value="I Authenticator" />
       <item value="验证" />
@@ -43,22 +54,11 @@
       <item value="字段" />
       <item value="计算" />
       <item value="Heard Beat " />
-      <item value="HeardBeatMsg" />
-      <item value="the radix to be used while parsing " />
-      <item value="ensure Capacity" />
-      <item value="/**&#10;     * Sets the specified 16-bit short integer in the Little Endian Byte&#10;     * Order at the current {@code writerIndex} and increases the&#10;     * {@code writerIndex} by {@code 2} in this buffer.&#10;     * The 16 high-order bits of the specified value are ignored.&#10;     * If {@code this.writableBytes} is less than {@code 2}, {@link #ensureWritable(int)}&#10;     * will be called in an attempt to expand capacity to accommodate.&#10;     */" />
-      <item value="/**&#10;     * Sets the specified 16-bit short integer at the current&#10;     * {@code writerIndex} and increases the {@code writerIndex} by {@code 2}&#10;     * in this buffer.  The 16 high-order bits of the specified value are ignored.&#10;     * If {@code this.writableBytes} is less than {@code 2}, {@link #ensureWritable(int)}&#10;     * will be called in an attempt to expand capacity to accommodate.&#10;     */" />
-      <item value="**&#10;     * Sets the specified 16-bit short integer at the current&#10;     * {@code writerIndex} and increases the {@code writerIndex} by {@code 2}&#10;     * in this buffer.  The 16 high-order bits of the specified value are ignored.&#10;     * If {@code this.writableBytes} is less than {@code 2}, {@link #ensureWritable(int)}&#10;     * will be called in an attempt to expand capacity to accommodate.&#10;     */" />
-      <item value="Sets" />
-      <item value="write Short LE" />
-      <item value="线路编码" />
-      <item value="局编码" />
-      <item value="帧类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
