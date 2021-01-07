@@ -4,8 +4,8 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
-      <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
       <item value="Dropped Hazelcast because at the moment Moquette is not designed to be clusterizable" />
+      <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
       <item value="ugly, too much array copy" />
       <item value="retain" />
       <item value="Get User Info Topic" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
