@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="The intended recipient of your private message is not available." />
       <item value="Create a defensive copy of the message, to prevent the address that it is sent to to leak back into the archive." />
       <item value="ignore events which were triggered by this node" />
       <item value="Problem obtaining current version information" />
@@ -53,12 +54,11 @@
       <item value="onSecureMessage" />
       <item value="IMPORTANT: client handle must be unique per item within the context of a subscription. You are not required to use the UaSubscription's client handle sequence; it is provided as a convenience. Your application is free to assign client handles by whatever means necessary." />
       <item value="完成" />
-      <item value="高度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
