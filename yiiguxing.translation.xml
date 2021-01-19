@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="You must edit all merge conflicts and then mark them as resolved using git add" />
       <item value="The intended recipient of your private message is not available." />
       <item value="Create a defensive copy of the message, to prevent the address that it is sent to to leak back into the archive." />
       <item value="ignore events which were triggered by this node" />
@@ -53,7 +54,6 @@
       <item value="on Secure Message" />
       <item value="onSecureMessage" />
       <item value="IMPORTANT: client handle must be unique per item within the context of a subscription. You are not required to use the UaSubscription's client handle sequence; it is provided as a convenience. Your application is free to assign client handles by whatever means necessary." />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
