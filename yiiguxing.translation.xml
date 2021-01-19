@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="enclosing Namespace" />
       <item value="You must edit all merge conflicts and then mark them as resolved using git add" />
       <item value="The intended recipient of your private message is not available." />
       <item value="Create a defensive copy of the message, to prevent the address that it is sent to to leak back into the archive." />
@@ -53,12 +54,11 @@
       <item value="No matter how we complete, make sure the entry in pending is removed. This covers the case where the request fails due to a timeout in the transport layer as well as normal completion." />
       <item value="on Secure Message" />
       <item value="onSecureMessage" />
-      <item value="IMPORTANT: client handle must be unique per item within the context of a subscription. You are not required to use the UaSubscription's client handle sequence; it is provided as a convenience. Your application is free to assign client handles by whatever means necessary." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
