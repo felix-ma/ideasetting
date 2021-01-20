@@ -74,7 +74,6 @@
         <option name="appId" value="20190527000302182" />
       </app-key>
     </option>
-    <option name="translateDocumentation" value="true" />
     <option name="translator" value="BAIDU" />
   </component>
 </application>
