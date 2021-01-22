@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="FEATURE PROCESS NAMESPACES" />
       <item value="Flag that indicates if certificates of the server should be validated." />
       <item value="Received fatal alert: handshake_failure" />
       <item value="Check if IP address is allowed to connect to the server" />
@@ -53,12 +54,11 @@
       <item value="初始化" />
       <item value="chromeUserDataDir" />
       <item value="初始化&#10;" />
-      <item value="到达时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
