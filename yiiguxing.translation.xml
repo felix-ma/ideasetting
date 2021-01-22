@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Prevent modifying the original stanza (that can be used by unrelated code, after this method returns) by making a defensive copy." />
+      <item value="Delegate to offline message strategy, which will either bounce or ignore the message depending on user settings." />
+      <item value="XEP-0160: &quot;headline&quot; message types SHOULD NOT be stored offline" />
+      <item value="XEP-0160: &quot;groupchat&quot; message types SHOULD NOT be stored offline" />
+      <item value="Use the stanza copy to send data. The 'to' address of this object will be changed by sending it." />
+      <item value="the stanza don't get the 'real' address from the recipient." />
+      <item value="Use an unmodified copy of the stanza (with the original 'to' address) when invoking event listeners (OF-2163)" />
+      <item value="Could not leave MUC prior joining, assuming we are not joined" />
+      <item value="resumed" />
       <item value="FEATURE PROCESS NAMESPACES" />
       <item value="Flag that indicates if certificates of the server should be validated." />
       <item value="Received fatal alert: handshake_failure" />
@@ -45,20 +54,11 @@
       <item value="验证" />
       <item value="校验" />
       <item value="对比" />
-      <item value="秒" />
-      <item value="m" />
-      <item value="interval" />
-      <item value="unsupported" />
-      <item value="Immutable" />
-      <item value="resove" />
-      <item value="初始化" />
-      <item value="chromeUserDataDir" />
-      <item value="初始化&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
