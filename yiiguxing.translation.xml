@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="compute" />
+      <item value="Task that will add a room occupant from the list of occupants in the room." />
+      <item value="Execute the operation considering that we may still be joining the cluster" />
+      <item value="The occupants of the room accessible by the occupants nickname." />
+      <item value="Do not store messages if communication is blocked" />
       <item value="Prevent modifying the original stanza (that can be used by unrelated code, after this method returns) by making a defensive copy." />
       <item value="Delegate to offline message strategy, which will either bounce or ignore the message depending on user settings." />
       <item value="XEP-0160: &quot;headline&quot; message types SHOULD NOT be stored offline" />
@@ -49,16 +54,11 @@
       <item value="Notify Message Topic" />
       <item value="Pull Message Topic" />
       <item value="Recall Message Topic" />
-      <item value="Creative Commons Attribution-NoDerivs 3.0 Unported" />
-      <item value="I Authenticator" />
-      <item value="验证" />
-      <item value="校验" />
-      <item value="对比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
