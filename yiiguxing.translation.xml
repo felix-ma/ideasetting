@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="OS specific support. var _must_ be set to either true or false." />
       <item value="不激活&#10;" />
       <item value="不激活" />
       <item value="Exchange initial presence information between occupants of the room." />
@@ -53,12 +54,11 @@
       <item value="Kickoff Group Member Topic" />
       <item value="Add Group Member Topic" />
       <item value="Get User Setting Topic" />
-      <item value="Multi Cast Message Topic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
