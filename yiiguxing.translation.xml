@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Keep track of the locks that are currently being used." />
       <item value="Instantiate a sequence manager to ensure that a block size larger than the default value of '1' is used." />
       <item value="增量" />
       <item value="属性" />
@@ -53,12 +54,11 @@
       <item value="ugly, too much array copy" />
       <item value="retain" />
       <item value="Get User Info Topic" />
-      <item value="Transfer Group Topic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
