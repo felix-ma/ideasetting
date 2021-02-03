@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="but interface was expected" />
       <item value="Surrogate" />
       <item value="Release Candidate" />
       <item value="Keep track of the locks that are currently being used." />
@@ -53,12 +54,11 @@
       <item value="pass forward this information in somehow publishMessage.setLocal(false);" />
       <item value="Dropped Hazelcast because at the moment Moquette is not designed to be clusterizable" />
       <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
-      <item value="ugly, too much array copy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
