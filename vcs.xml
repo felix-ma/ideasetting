@@ -146,6 +146,10 @@
           <option name="url" value="https://github.com/Blazemeter/jmeter-bzm-plugins.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sbenner/netty-xmpp-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code\workspace" />

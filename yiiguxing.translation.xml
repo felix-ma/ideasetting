@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="we received starttls and we set proceed" />
       <item value="but interface was expected" />
       <item value="Surrogate" />
       <item value="Release Candidate" />
@@ -53,12 +54,11 @@
       <item value="module-info has been compiled by a more recent version of the Java Runtime (class file version 53.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
       <item value="pass forward this information in somehow publishMessage.setLocal(false);" />
       <item value="Dropped Hazelcast because at the moment Moquette is not designed to be clusterizable" />
-      <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
