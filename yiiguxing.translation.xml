@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="GROUP SERIAL NBR" />
       <item value="Failed at attempt to obtain an ID, aborting" />
       <item value="While waiting for successful SASL authentication" />
       <item value="we received starttls and we set proceed" />
@@ -53,12 +54,11 @@
       <item value="faqentry" />
       <item value="affiliation" />
       <item value="distribution" />
-      <item value="module-info has been compiled by a more recent version of the Java Runtime (class file version 53.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="189" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613277500852" />
+    <option name="lastTrimTime" value="1613964756429" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
