@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="recalculate Partitions" />
       <item value="is Isolated" />
       <item value="GROUP SERIAL NBR" />
       <item value="Failed at attempt to obtain an ID, aborting" />
@@ -53,12 +54,11 @@
       <item value="ignore events which were triggered by this node" />
       <item value="Problem obtaining current version information" />
       <item value="faqentry" />
-      <item value="affiliation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
