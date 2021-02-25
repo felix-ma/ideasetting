@@ -4,8 +4,8 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
-      <item value="Initialize your data structure here." />
       <item value="Get the value of the index-th node in the linked list. If the index is invalid, return -1." />
+      <item value="Initialize your data structure here." />
       <item value="Your MyLinkedList object will be instantiated and called as such:" />
       <item value="recalculate Partitions" />
       <item value="is Isolated" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
