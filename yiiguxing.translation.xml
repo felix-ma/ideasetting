@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="Inappropriate blocking method call " />
       <item value="Servlet CXFServlet was not registered (possibly already registered?)" />
       <item value="路局" />
       <item value="局" />
@@ -53,7 +54,6 @@
       <item value="Check if IP address is allowed to connect to the server" />
       <item value="Currently only in use for s2s" />
       <item value="Currently only in use for s2s." />
-      <item value="Start thread that will send heartbeats to the server every 30 seconds" />
     </histories>
     <option name="languageScores">
       <map>
