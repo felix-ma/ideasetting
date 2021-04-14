@@ -9,6 +9,8 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="CodotaJavaScriptSearch" />
+  <action id="CodotaLeanSearchCrossRefAction" />
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
@@ -22,6 +24,7 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindPrevious" />
+  <action id="ForceOthersToFollowAction" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <mouse-shortcut keystroke="control button1" />
