@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="filter log" />
-    <option name="defaultScopeName" value="filter log" />
-    <option name="SEARCH_SCOPE" value="filter log" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Current File" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
