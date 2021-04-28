@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="常量" />
       <item value="原始" />
       <item value="Inappropriate blocking method call " />
       <item value="Servlet CXFServlet was not registered (possibly already registered?)" />
@@ -53,7 +54,6 @@
       <item value="Flag that indicates if certificates of the server should be validated." />
       <item value="Received fatal alert: handshake_failure" />
       <item value="Check if IP address is allowed to connect to the server" />
-      <item value="Currently only in use for s2s" />
     </histories>
     <option name="languageScores">
       <map>
