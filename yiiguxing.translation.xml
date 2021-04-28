@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="选项" />
+      <item value="计数" />
+      <item value="次数" />
+      <item value="答案" />
       <item value="SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future. Set it to True or False to suppress this warning. 'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '" />
       <item value="absolute" />
       <item value="常量" />
@@ -50,10 +54,6 @@
       <item value="Use the stanza copy to send data. The 'to' address of this object will be changed by sending it." />
       <item value="the stanza don't get the 'real' address from the recipient." />
       <item value="Use an unmodified copy of the stanza (with the original 'to' address) when invoking event listeners (OF-2163)" />
-      <item value="Could not leave MUC prior joining, assuming we are not joined" />
-      <item value="resumed" />
-      <item value="FEATURE PROCESS NAMESPACES" />
-      <item value="Flag that indicates if certificates of the server should be validated." />
     </histories>
     <option name="languageScores">
       <map>
