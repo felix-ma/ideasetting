@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value=":class:`~sqlalchemy.sql.expression.ClauseElement` representing a default value to be applied to the column within UPDATE statements, which will be invoked upon update if this column is not present in the SET clause of the update. This is a shortcut to using :class:`.ColumnDefault` as a positional argument with ``for_update=True``. .. seealso:: :ref:`metadata_defaults` - complete discussion of onupdate" />
       <item value="选项" />
       <item value="计数" />
       <item value="次数" />
@@ -53,7 +54,6 @@
       <item value="XEP-0160: &quot;groupchat&quot; message types SHOULD NOT be stored offline" />
       <item value="Use the stanza copy to send data. The 'to' address of this object will be changed by sending it." />
       <item value="the stanza don't get the 'real' address from the recipient." />
-      <item value="Use an unmodified copy of the stanza (with the original 'to' address) when invoking event listeners (OF-2163)" />
     </histories>
     <option name="languageScores">
       <map>
