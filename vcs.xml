@@ -198,6 +198,10 @@
           <option name="url" value="https://github.91chifun.workers.dev//https://github.com/quarkusio/quarkus-quickstarts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/quarkusio/quarkus-quickstarts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code\GitSpace" />
