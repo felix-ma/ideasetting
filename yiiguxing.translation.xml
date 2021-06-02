@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogWidth" value="544" />
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="d" />
+      <item value="biaodas" />
+      <item value="bi" />
+      <item value="Exp" />
       <item value="MutiTableProvider" />
       <item value="Muti Provider" />
       <item value="expression" />
@@ -50,10 +54,6 @@
       <item value="Failed at attempt to obtain an ID, aborting" />
       <item value="While waiting for successful SASL authentication" />
       <item value="we received starttls and we set proceed" />
-      <item value="but interface was expected" />
-      <item value="Surrogate" />
-      <item value="Release Candidate" />
-      <item value="Keep track of the locks that are currently being used." />
     </histories>
     <option name="languageScores">
       <map>
