@@ -214,6 +214,10 @@
           <option name="url" value="https://github.com/ebridges/rdbms-to-graphql.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://codehub-dg-g.huawei.com" />
+          <option name="userName" value="m84192598" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code" />
