@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="542" />
+    <option name="newTranslationDialogWidth" value="540" />
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value="词语" />
+      <item value="c" />
+      <item value="word" />
+      <item value="world" />
       <item value="d" />
       <item value="biaodas" />
       <item value="bi" />
@@ -50,14 +54,10 @@
       <item value="Your MyLinkedList object will be instantiated and called as such:" />
       <item value="recalculate Partitions" />
       <item value="is Isolated" />
-      <item value="GROUP SERIAL NBR" />
-      <item value="Failed at attempt to obtain an ID, aborting" />
-      <item value="While waiting for successful SASL authentication" />
-      <item value="we received starttls and we set proceed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
+        <entry key="CHINESE" value="200" />
         <entry key="ENGLISH" value="200" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="2" />
