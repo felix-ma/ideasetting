@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="431" />
     <histories>
+      <item value=" Could not acquire image ID or digest following build" />
+      <item value="Could not acquire image ID or digest following build Could not acquire image ID or digest following build" />
       <item value="publicsaas" />
       <item value="publicsaaspublicsaas" />
       <item value="词语" />
@@ -52,8 +54,6 @@
       <item value="适配器" />
       <item value="Add a node of value val before the index-th node in the linked list. If index equals to the length of linked list, the node will be appended to the end of linked list. If index is greater than the length, the node will not be inserted." />
       <item value="Get the value of the index-th node in the linked list. If the index is invalid, return -1." />
-      <item value="Initialize your data structure here." />
-      <item value="Your MyLinkedList object will be instantiated and called as such:" />
     </histories>
     <option name="languageScores">
       <map>
