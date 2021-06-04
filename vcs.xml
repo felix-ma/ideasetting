@@ -226,6 +226,18 @@
           <option name="url" value="ssh://git@codehub-dg-g.huawei.com:2222/m84192598/MicroServiceCloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@codehub-dg-g.huawei.com:2222/EBG/eSales/ePlus_Common_Service/eplus_common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@codehub-dg-g.huawei.com:2222/EBG/eSales/ePlus_Common_Service/abm/abm_eplus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@codehub-dg-g.huawei.com:2222/EBG/eSales/ePlus_Common_Service/abm/abm_aui_web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code" />
