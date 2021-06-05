@@ -1,9 +1,26 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="532" />
+    <option name="newTranslationDialogWidth" value="526" />
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="430" />
     <histories>
+      <item value="snip" />
+      <item value="优化" />
+      <item value="sqlParentheses 优化" />
+      <item value="sqlParentheses " />
+      <item value="sql Parentheses" />
+      <item value="sqlParents" />
+      <item value="sql Parents" />
+      <item value="parenthe" />
+      <item value="parenthes" />
+      <item value="parenthese" />
+      <item value="paren" />
+      <item value="parent" />
+      <item value="parentheses" />
+      <item value="括号" />
+      <item value="sql" />
+      <item value="括号优化" />
+      <item value="括号检测" />
       <item value="convers" />
       <item value="conver" />
       <item value="conversion Sql Type" />
@@ -37,23 +54,6 @@
       <item value="格式" />
       <item value="合并" />
       <item value="logic Exp" />
-      <item value="片段" />
-      <item value="verifiy" />
-      <item value="校验" />
-      <item value="解析" />
-      <item value=":class:`~sqlalchemy.sql.expression.ClauseElement` representing a default value to be applied to the column within UPDATE statements, which will be invoked upon update if this column is not present in the SET clause of the update. This is a shortcut to using :class:`.ColumnDefault` as a positional argument with ``for_update=True``. .. seealso:: :ref:`metadata_defaults` - complete discussion of onupdate" />
-      <item value="选项" />
-      <item value="计数" />
-      <item value="次数" />
-      <item value="答案" />
-      <item value="SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future. Set it to True or False to suppress this warning. 'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '" />
-      <item value="absolute" />
-      <item value="常量" />
-      <item value="原始" />
-      <item value="Inappropriate blocking method call " />
-      <item value="Servlet CXFServlet was not registered (possibly already registered?)" />
-      <item value="路局" />
-      <item value="局" />
     </histories>
     <option name="languageScores">
       <map>
