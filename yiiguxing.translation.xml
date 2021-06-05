@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="538" />
+    <option name="newTranslationDialogWidth" value="536" />
     <option name="newTranslationDialogX" value="672" />
-    <option name="newTranslationDialogY" value="431" />
+    <option name="newTranslationDialogY" value="430" />
     <histories>
+      <item value="conversion Sql Type" />
+      <item value="转换" />
+      <item value="covert Sql Type" />
       <item value="乘法" />
       <item value=" Could not acquire image ID or digest following build" />
       <item value="Could not acquire image ID or digest following build Could not acquire image ID or digest following build" />
@@ -22,7 +25,6 @@
       <item value="expression" />
       <item value="conver" />
       <item value="conversions" />
-      <item value="转换" />
       <item value="表达式校验失败" />
       <item value="表达式校验" />
       <item value="表达式" />
@@ -52,8 +54,6 @@
       <item value="局" />
       <item value="If the database schema isn't installed at all, we need to install it." />
       <item value="enclosing Namespace" />
-      <item value="适配器" />
-      <item value="Add a node of value val before the index-th node in the linked list. If index equals to the length of linked list, the node will be appended to the end of linked list. If index is greater than the length, the node will not be inserted." />
     </histories>
     <option name="languageScores">
       <map>
