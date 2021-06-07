@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="526" />
+    <option name="newTranslationDialogWidth" value="524" />
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="430" />
     <histories>
+      <item value="不支持" />
+      <item value="supp" />
       <item value="snip" />
       <item value="优化" />
       <item value="sqlParentheses 优化" />
@@ -52,8 +54,6 @@
       <item value="格式校验失败" />
       <item value="格式校验" />
       <item value="格式" />
-      <item value="合并" />
-      <item value="logic Exp" />
     </histories>
     <option name="languageScores">
       <map>
