@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="430" />
     <histories>
+      <item value="for Each Remaining" />
       <item value="不支持" />
       <item value="supp" />
       <item value="snip" />
@@ -53,7 +54,6 @@
       <item value="缺失header" />
       <item value="格式校验失败" />
       <item value="格式校验" />
-      <item value="格式" />
     </histories>
     <option name="languageScores">
       <map>
