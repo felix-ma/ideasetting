@@ -23,7 +23,6 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
-  <action id="FindPrevious" />
   <action id="ForceOthersToFollowAction" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
@@ -35,18 +34,11 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
-  <action id="HiCode.CodeCheck.Format">
-    <keyboard-shortcut first-keystroke="shift alt o" />
-    <keyboard-shortcut first-keystroke="shift ctrl f" />
-  </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
