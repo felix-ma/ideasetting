@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="430" />
     <histories>
+      <item value="is Assignable From" />
       <item value="Injection of autowired dependencies" />
       <item value="for Each Remaining" />
       <item value="不支持" />
@@ -53,7 +54,6 @@
       <item value="表达式" />
       <item value="缺失" />
       <item value="缺失header" />
-      <item value="格式校验失败" />
     </histories>
     <option name="languageScores">
       <map>
