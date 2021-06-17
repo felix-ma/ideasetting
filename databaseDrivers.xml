@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="presto">
+      <artifact id="Presto" name="Presto" use="true" version="0.245.1" />
+    </driver>
     <driver id="h2.unified">
       <artifact id="H2" name="H2" use="true" version="1.4.200" />
     </driver>
