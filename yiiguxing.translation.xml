@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="430" />
     <histories>
+      <item value="artifactory" />
+      <item value="Failure to find org.apache.flink:flink-table_2.11:pom:1.13.1 in http:dg.artifact.huawei.comartifactorymaven-local-group was cached in the local repository, resolution will not be reattempted until the update interval of artifactory-maven has elapsed or updates are forced" />
+      <item value="Failure to find com.huawei.his.framework:jalor-dependencies:pom:6.6.3.0.RELEASE in http:mirrors.tools.huawei.commaven was cached in the local repository, resolution will not be reattempted until the update interval of huaweicloud has elapsed or updates are forced" />
       <item value="select from mongo.auth_cloud_sit.authority_query where object_ids IN (1) limit 1;" />
       <item value="The generic type parameters of 'Collector' are missing. In many cases lambda methods don't provide enough information for automatic type extraction when Java generics are involved. An easy workaround is to use an (anonymous) class instead that implements the 'org.apache.flink.api.common.functions.FlatMapFunction' interface. Otherwise the type has to be specified explicitly using type information." />
       <item value="is Assignable From" />
@@ -51,9 +54,6 @@
       <item value="Muti Provider" />
       <item value="expression" />
       <item value="conversions" />
-      <item value="表达式校验失败" />
-      <item value="表达式校验" />
-      <item value="表达式" />
     </histories>
     <option name="languageScores">
       <map>
