@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="522" />
+    <option name="newTranslationDialogWidth" value="520" />
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="430" />
     <histories>
+      <item value="前缀" />
+      <item value="AUTH REDIS PREX" />
       <item value="additivity" />
       <item value="artifactory" />
       <item value="Failure to find org.apache.flink:flink-table_2.11:pom:1.13.1 in http:dg.artifact.huawei.comartifactorymaven-local-group was cached in the local repository, resolution will not be reattempted until the update interval of artifactory-maven has elapsed or updates are forced" />
@@ -52,8 +54,6 @@
       <item value="bi" />
       <item value="Exp" />
       <item value="MutiTableProvider" />
-      <item value="Muti Provider" />
-      <item value="expression" />
     </histories>
     <option name="languageScores">
       <map>
