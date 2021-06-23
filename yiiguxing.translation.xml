@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="430" />
     <histories>
+      <item value="additivity" />
       <item value="artifactory" />
       <item value="Failure to find org.apache.flink:flink-table_2.11:pom:1.13.1 in http:dg.artifact.huawei.comartifactorymaven-local-group was cached in the local repository, resolution will not be reattempted until the update interval of artifactory-maven has elapsed or updates are forced" />
       <item value="Failure to find com.huawei.his.framework:jalor-dependencies:pom:6.6.3.0.RELEASE in http:mirrors.tools.huawei.commaven was cached in the local repository, resolution will not be reattempted until the update interval of huaweicloud has elapsed or updates are forced" />
@@ -53,7 +54,6 @@
       <item value="MutiTableProvider" />
       <item value="Muti Provider" />
       <item value="expression" />
-      <item value="conversions" />
     </histories>
     <option name="languageScores">
       <map>
