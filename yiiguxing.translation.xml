@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="672" />
     <option name="newTranslationDialogY" value="430" />
     <histories>
+      <item value="select FROM system.jdbc.columns" />
       <item value="前缀" />
       <item value="AUTH REDIS PREX" />
       <item value="additivity" />
@@ -53,7 +54,6 @@
       <item value="biaodas" />
       <item value="bi" />
       <item value="Exp" />
-      <item value="MutiTableProvider" />
     </histories>
     <option name="languageScores">
       <map>
